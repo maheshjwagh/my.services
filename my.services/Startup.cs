@@ -12,7 +12,9 @@ namespace my.services
     {
         public void Configuration(IAppBuilder app)
         {
+            // Dummy comment
             ConfigureAuth(app);
+            var temp = false;
         }
     }
 }
