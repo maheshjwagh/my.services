@@ -14,6 +14,7 @@ namespace my.services
         {
             // Dummy comment
             ConfigureAuth(app);
+            var temp = false;
         }
     }
 }
